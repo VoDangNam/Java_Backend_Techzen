@@ -21,4 +21,5 @@ public class Bai06 {
             fibonacci = temp1 + temp2;
         }
     }
+
 }

@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb96ff1b-7a73-4e41-9e50-e637e29a5836" name="Changes" comment="" />
+    <list default="true" id="cb96ff1b-7a73-4e41-9e50-e637e29a5836" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai_Tap_Bai06/Bai06/src/Bai01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_Tap_Bai06/Bai06/src/Bai02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "VoDangNam"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/VoDangNam/Java_Backend_Techzen.git",
+    "accountId": "78898b67-a5ca-4382-9662-4e126177207c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="35ys2pktjlnsnHJ4l26dAOaoZ78" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,8 +43,10 @@
     "Application.Bai02.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java_backen_Techzen/Lession/Bai_tap_Bai04"
+    "last_opened_file_path": "D:/Java_backen_Techzen/BT/Bai_tap_Bai04"
   }
 }]]></component>
   <component name="TaskManager">
