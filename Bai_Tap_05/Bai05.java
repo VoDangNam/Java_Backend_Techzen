@@ -12,12 +12,12 @@ public class Bai05 {
     }
 
     public static void dayFibonaci(int n) {
-        int fibonaci = 1, temp1 = 0, temp2 = 1;
-        while (fibonaci <= n) {
-            System.out.print(fibonaci + " ");
-            temp1=temp2;
-            temp2=fibonaci;
-            fibonaci=temp1+temp2;
+        int a = 0, b = 1;
+        for (int i = 1; i <= n; i++) {
+            System.out.print(b + " ");
+            int temp = a + b;
+            a = b;
+            b = temp;
         }
     }
 }

@@ -17,7 +17,7 @@ public class Bai06 {
         public String gioiTinh;
         public double luongCB;
         public double diemTB;
-
+        public int tuoi;
         public NhanVien() {
         }
 
@@ -28,6 +28,9 @@ public class Bai06 {
             System.out.print("Ho va Ten: ");
             hoTen = sc.nextLine();
             System.out.print("Gioi Tinh (nam/nu): ");
+            sc.nextLine();
+            System.out.print("Tuoi cua nhan vien: ");
+            tuoi=sc.nextInt();
             gioiTinh = sc.nextLine().toLowerCase();
             System.out.print("Luong co ban: ");
             luongCB = sc.nextDouble();
@@ -39,6 +42,7 @@ public class Bai06 {
         public  void xuatTT() {
             System.out.println("Thong tin nhan vien " + hoTen);
             System.out.println("Ho va Ten: " + hoTen);
+            System.out.println("Tuoi: "+tuoi);
             System.out.println("Gioi Tinh: " + gioiTinh);
             System.out.println("Luong co ban: " + luongCB);
             System.out.println("Diem trung binh: " + diemTB);
