@@ -59,6 +59,7 @@ public class Bai07 {
         }
     }
 
+
     static void nhapNV1() {
         System.out.println("Nhap thong tin nhan vien 1:");
         System.out.print("Ho ten: ");
